@@ -1,0 +1,92 @@
+{
+  "ru": {
+    "main_window_title": "ИИ Приложение",
+    "main_menu_settings": "Настройки",
+    "main_menu_info_app": "О Приложении",
+    "main_tab_home": "Главная",
+    "main_new_chat_button": "Создать Чат",
+    "main_remove_chat_button": "Удалить Чат",
+    "main_open_chat_button": "Открыть Чат",
+    "main_close_chat_button": "Закрыть Чат",
+    "main_line_edit_placeholder": "Введите Запрос",
+    "main_combo_model_placeholder": "Модель",
+    "main_tab_settings": "Настройки AI",
+    "main_label_chat_max_token": "Макс Токенов Чата: ",
+    "main_label_answer_max_token": "Макс Токенов Ответа: ",
+    "main_label_threads_model": "Потоки для модели: ",
+    "main_label_temperature_model": "Креативность: ",
+    "main_button_save_settings_model": "Сохранить",
+    "main_button_cannel_settings_model": "Отмена",
+
+    "settings_app_window_title": "Настройки",
+    "settings_label_style": "Стиль: ",
+    "settings_label_language": "Язык: ",
+    "settings_button_save": "Сохранить",
+    "settings_button_cannel": "Отмена",
+
+    "new_chat_window_title": "Новый Чат",
+    "new_chat_line_name": "Название Чата",
+    "new_chat_button_save": "Сохранить",
+    "new_chat_button_cannel": "Отмена",
+
+    "zapros_gui_window_title": "Запрос",
+    "zapros_gui_zapros_line": "Введите Запрос",
+    "zapros_gui_combo_model_placeholder": "Модель",
+
+    "answer_gui_window_title": "Ответ",
+    "answer_button_cancel": "Закрыть",
+    "answer_button_request": "Запрос",
+    "answer_button_copy": "Копировать",
+
+    "app_info_window_title": "О Приложении",
+    "app_info_label_info_app": "<div style=\"\n    font-family: 'Segoe UI', Arial, sans-serif;\n    font-size: 15px;\n    color: #e0e0e0;\n    background: #212121;\n    border-left: 4px solid #4a90d9;\n    border-radius: 8px;\n    padding: 14px 18px;\n\">\n    <span style=\"font-size: 20px; font-weight: 600; color: #4a90d9;\">AI App</span>\n    <span style=\"color: #b0b0b0;\"> — приложение для локального запуска нейросетей\n    для личного пользования.</span>\n    <br><br>\n    <span style=\"color: #d0d0d0;\">Поддерживаемый формат моделей: </span>\n    <span style=\"\n        background: #2d2d2d;\n        color: #4a90d9;\n        padding: 2px 8px;\n        border-radius: 5px;\n        font-family: 'Consolas', monospace;\n        font-size: 13px;\n    \">.gguf</span>\n</div>",
+    "app_info_label_autor_app": "<div style=\"\n    font-family: 'Segoe UI', Arial, sans-serif;\n    font-size: 14px;\n    color: #e0e0e0;\n    background: #1f1f1f;\n    border: 1px solid #000000;\n    border-radius: 8px;\n    padding: 10px 16px;\n\">\n    <span style=\"color: #888888;\">Автор:</span>\n    <span style=\"font-weight: 600; color: #4a90d9;\">Penor</span>\n</div>",
+    "app_info_label_version_app": "<div style=\"\n    font-family: 'Segoe UI', Arial, sans-serif;\n    font-size: 14px;\n    color: #e0e0e0;\n    background: #1f1f1f;\n    border: 1px solid #000000;\n    border-radius: 8px;\n    padding: 10px 16px;\n\">\n    <span style=\"color: #888888;\">Версия:</span>\n    <span style=\"\n        background: #2d2d2d;\n        color: #4a90d9;\n        padding: 2px 8px;\n        border-radius: 5px;\n        font-family: 'Consolas', monospace;\n        font-size: 13px;\n    \">1.0.0</span>\n</div>",
+    "app_info_button_close": "Закрыть"
+  },
+  "en": {
+    "main_window_title": "AI App",
+    "main_menu_settings": "Settings",
+    "main_menu_info_app": "About the App",
+    "main_tab_home": "Home",
+    "main_new_chat_button": "Create Chat",
+    "main_remove_chat_button": "Delete Chat",
+    "main_open_chat_button": "Open Chat",
+    "main_close_chat_button": "Close Chat",
+    "main_line_edit_placeholder": "Enter Query",
+    "main_combo_model_placeholder": "Model",
+    "main_tab_settings": "Settings AI",
+    "main_label_chat_max_token": "Chats Max Tokens: ",
+    "main_label_answer_max_token": "Answer Max Tokens: ",
+    "main_label_threads_model": "Streams for the model: ",
+    "main_label_temperature_model": "Temperature: ",
+    "main_button_save_settings_model": "Save",
+    "main_button_cannel_settings_model": "Cancel",
+
+    "settings_app_window_title": "Settings",
+    "settings_label_style": "Style: ",
+    "settings_label_language": "Language: ",
+    "settings_button_save": "Save",
+    "settings_button_cannel": "Cancel",
+
+    "new_chat_window_title": "New Chat",
+    "new_chat_line_name": "Chat Name",
+    "new_chat_button_save": "Save",
+    "new_chat_button_cannel": "Cancel",
+
+    "zapros_gui_window_title": "Request",
+    "zapros_gui_zapros_line": "Enter Query",
+    "zapros_gui_combo_model_placeholder": "Model",
+
+    "answer_gui_window_title": "Answer",
+    "answer_button_cancel": "Close",
+    "answer_button_request": "Request",
+    "answer_button_copy": "Copy",
+
+    "app_info_window_title": "About the app",
+    "app_info_label_info_app": "<div style=\"\n    font-family: 'Segoe UI', Arial, sans-serif;\n    font-size: 15px;\n    color: #e0e0e0;\n    background: #212121;\n    border-left: 4px solid #4a90d9;\n    border-radius: 8px;\n    padding: 14px 18px;\n\">\n    <span style=\"font-size: 20px; font-weight: 600; color: #4a90d9;\">AI App</span>\n    <span style=\"color: #b0b0b0;\"> — an application for running neural networks\n    locally for personal use.</span>\n    <br><br>\n    <span style=\"color: #d0d0d0;\">Supported model format: </span>\n    <span style=\"\n        background: #2d2d2d;\n        color: #4a90d9;\n        padding: 2px 8px;\n        border-radius: 5px;\n        font-family: 'Consolas', monospace;\n        font-size: 13px;\n    \">.gguf</span>\n</div>",
+    "app_info_label_autor_app": "<div style=\"\n    font-family: 'Segoe UI', Arial, sans-serif;\n    font-size: 14px;\n    color: #e0e0e0;\n    background: #1f1f1f;\n    border: 1px solid #000000;\n    border-radius: 8px;\n    padding: 10px 16px;\n\">\n    <span style=\"color: #888888;\">Author:</span>\n    <span style=\"font-weight: 600; color: #4a90d9;\">Penor</span>\n</div>",
+    "app_info_label_version_app": "<div style=\"\n    font-family: 'Segoe UI', Arial, sans-serif;\n    font-size: 14px;\n    color: #e0e0e0;\n    background: #1f1f1f;\n    border: 1px solid #000000;\n    border-radius: 8px;\n    padding: 10px 16px;\n\">\n    <span style=\"color: #888888;\">Version:</span>\n    <span style=\"\n        background: #2d2d2d;\n        color: #4a90d9;\n        padding: 2px 8px;\n        border-radius: 5px;\n        font-family: 'Consolas', monospace;\n        font-size: 13px;\n    \">1.0.0</span>\n</div>",
+    "app_info_button_close": "Close"
+  }
+}

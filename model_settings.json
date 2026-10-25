@@ -1,0 +1,8 @@
+{
+    "chat_max_token": 2048,
+    "threads": 1,
+    "mmap": true,
+    "mlock": false,
+    "answer_max_token": 512,
+    "temperature": 0.7
+}
